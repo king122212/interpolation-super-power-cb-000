@@ -1,1 +1,3 @@
-# Write your #display_rainbow method here
+def display_rainbow(unicorn)
+puts "R: #{unicorn[0]}"
+end
